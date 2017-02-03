@@ -1,0 +1,2 @@
+# GetPoints
+get points
